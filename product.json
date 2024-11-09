@@ -1,0 +1,211 @@
+
+[
+  
+        {
+          "id": "1",
+          "name": "Apple AirPods Max",
+          "title": "Apple AirPods Max Over-Ear Headphones",
+          "available_color": ["Space Gray", "Silver", "Sky Blue", "Green", "Pink"],
+          "current_color": "Space Gray",
+          "price": 549.00,
+          "long_details": "The Apple AirPods Max offers high-fidelity audio with active noise cancellation, spatial audio, and a custom-designed chip for an immersive sound experience. Features include a breathable knit mesh canopy and memory foam ear cushions for comfort, and a 20-hour battery life.",
+          "category": "Over-Ear Headphones",
+          "rating": 4.7,
+          "image": "https://i.pinimg.com/736x/2f/27/92/2f27922f6587cfdbfa70180fe0788a48.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Beats Studio3 Wireless",
+          "title": "Beats Studio3 Wireless Over-Ear Headphones",
+          "available_color": ["Matte Black", "Midnight Black", "Porcelain Rose", "Blush Pink"],
+          "current_color": "Matte Black",
+          "price": 349.95,
+          "long_details": "The Beats Studio3 Wireless headphones feature Pure Adaptive Noise Cancelling (Pure ANC) to block outside noise, providing an immersive listening experience. Equipped with Apple's W1 chip, they offer easy pairing with Apple devices and up to 22 hours of battery life.",
+          "category": "Over-Ear Headphones",
+          "rating": 4.5,
+          "image": "https://i.pinimg.com/736x/e7/d3/51/e7d351d1f67d818f6ab7ad45536006b3.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Bose QuietComfort 45",
+          "title": "Bose QuietComfort 45 Noise Cancelling Headphones",
+          "available_color": ["Black", "White Smoke"],
+          "current_color": "Black",
+          "price": 329.99,
+          "long_details": "Bose QuietComfort 45 headphones deliver superior noise cancellation for an immersive sound experience. With a lightweight design, comfortable earcups, and up to 24 hours of battery life, they are perfect for travel, work, or long listening sessions.",
+          "category": "Over-Ear Headphones",
+          "rating": 4.6,
+          "image": "https://i.pinimg.com/564x/8a/e6/2b/8ae62b240734b56f503a56ce78c2a259.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Sony WH-1000XM5",
+          "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+          "available_color": ["Black", "Silver"],
+          "current_color": "Silver",
+          "price": 399.99,
+          "long_details": "The Sony WH-1000XM5 features next-generation noise-canceling technology and superior sound quality. With adaptive sound control, touch-sensitive controls, and up to 30 hours of battery life, these headphones are perfect for travel and everyday use.",
+          "category": "Over-Ear Headphones",
+          "rating": 4.8,
+          "image": "https://i.pinimg.com/564x/42/e8/e4/42e8e40ec934b52ac89ebdc9d1b67e6f.jpg"
+        },
+        {
+          "id": "5",
+          "name": "Sennheiser Momentum 4",
+          "title": "Sennheiser Momentum 4 Wireless Over-Ear Headphones",
+          "available_color": ["Black", "White"],
+          "current_color": "Black",
+          "price": 349.95,
+          "long_details": "Sennheiser's Momentum 4 headphones offer premium sound with adaptive noise cancellation and a 60-hour battery life. With a lightweight, comfortable design, they deliver powerful, balanced audio for all types of music and media.",
+          "category": "Over-Ear Headphones",
+          "rating": 4.6,
+          "image": "https://i.pinimg.com/564x/1a/9c/a6/1a9ca60fc0e64b4fd2d8661efb5bc2f0.jpg"
+        },
+        {
+          "id": "6",
+          "name": "JBL Club 950NC",
+          "title": "JBL Club 950NC Noise Cancelling Over-Ear Headphones",
+          "available_color": ["Black", "Silver"],
+          "current_color": "Black",
+          "price": 249.95,
+          "long_details": "JBL Club 950NC headphones are designed for audiophiles, offering powerful bass and excellent sound quality. With adaptive noise cancellation, touch controls, and a 55-hour battery life, they are ideal for everyday listening.",
+          "category": "Over-Ear Headphones",
+          "rating": 4.4,
+          "image": "https://i.pinimg.com/564x/41/31/c0/4131c070168f5222a5601eae1014d1ee.jpg"
+        },
+        {
+          "id": "7",
+          "name": "Bang & Olufsen Beoplay HX",
+          "title": "Bang & Olufsen Beoplay HX Noise Cancelling Headphones",
+          "available_color": ["Black", "Natural", "Blush"],
+          "current_color": "Black",
+          "price": 499.99,
+          "long_details": "The Beoplay HX offers superior sound quality with advanced noise cancellation. Crafted with high-quality materials, these headphones provide up to 35 hours of battery life, a luxurious feel, and exceptional sound performance.",
+          "category": "Over-Ear Headphones",
+          "rating": 4.7,
+          "image": "https://i.pinimg.com/564x/90/83/61/90836191e914656f0caee2db96e21c0b.jpg"
+        },
+        {
+          "id": "8",
+          "name": "Master & Dynamic MW75",
+          "title": "Master & Dynamic MW75 Active Noise Cancelling Headphones",
+          "available_color": ["Black", "Silver", "Brown"],
+          "current_color": "Silver",
+          "price": 599.00,
+          "long_details": "The MW75 delivers high-quality sound with active noise cancellation, offering rich audio and superior comfort. With a sleek design, premium materials, and 28 hours of battery life, these headphones offer both style and performance.",
+          "category": "Over-Ear Headphones",
+          "rating": 4.8,
+          "image": "https://i.pinimg.com/736x/52/3a/9b/523a9b4bc56d017b9c0f3433a99b3fb2.jpg"
+        },
+   
+     
+        {
+          "id": "9",
+          "name": "AirPods Pro 2nd Gen",
+          "title": "Apple AirPods Pro (2nd Generation)",
+          "available_color": ["White"],
+          "current_color": "White",
+          "price": 249.00,
+          "long_details": "The AirPods Pro 2nd Gen delivers superior sound quality with Active Noise Cancellation and Transparency mode. Featuring Apple's H2 chip, longer battery life, and a more comfortable in-ear fit, they offer an upgraded listening experience.",
+          "category": "In-Ear Headphones",
+          "rating": 4.7,
+          "image": "https://i.pinimg.com/736x/5f/7d/92/5f7d9214ccc32ec0b5f15a574fd53e8c.jpg"
+        },
+        {
+          "id": "10",
+          "name": "Beats Fit Pro",
+          "title": "Beats Fit Pro True Wireless Earbuds",
+          "available_color": ["Beats Black", "White", "Grey", "Purple"],
+          "current_color": "Beats Black",
+          "price": 199.95,
+          "long_details": "Beats Fit Pro offers premium sound, active noise cancellation, and a secure, comfortable fit. With Apple's H1 chip, spatial audio, and up to 6 hours of listening time, they are perfect for workouts and everyday activities.",
+          "category": "In-Ear Headphones",
+          "rating": 4.6,
+          "image": "https://i.pinimg.com/736x/52/12/a6/5212a64a39473916723c936318067e18.jpg"
+        },
+        {
+          "id": "11",
+          "name": "Sony WF-1000XM4",
+          "title": "Sony WF-1000XM4 True Wireless Earbuds",
+          "available_color": ["Black", "Silver"],
+          "current_color": "Black",
+          "price": 279.99,
+          "long_details": "Sony WF-1000XM4 offers industry-leading noise cancellation and superior sound quality with LDAC support. These compact earbuds feature IPX4 water resistance, touch controls, and up to 8 hours of playback on a single charge.",
+          "category": "In-Ear Headphones",
+          "rating": 4.8,
+          "image": "https://i.pinimg.com/736x/73/91/1e/73911eb765634c1425cce18619f7a288.jpg"
+        },
+        {
+          "id": "12",
+          "name": "Jabra Elite 85t",
+          "title": "Jabra Elite 85t True Wireless Earbuds",
+          "available_color": ["Titanium Black", "Gold Beige", "Mint", "Copper Black"],
+          "current_color": "Titanium Black",
+          "price": 229.99,
+          "long_details": "Jabra Elite 85t features adjustable active noise cancellation and excellent sound quality with custom EQ. With a comfortable fit, IPX4 water resistance, and up to 25 hours of battery life with the charging case, they are ideal for all-day use.",
+          "category": "In-Ear Headphones",
+          "rating": 4.7,
+          "image": "https://i.pinimg.com/736x/da/4c/88/da4c88b98c34e0ae95a05bfc1e2b2ad3.jpg"
+        },
+        {
+          "id": "13",
+          "name": "Sennheiser Momentum True Wireless 3",
+          "title": "Sennheiser Momentum True Wireless 3 Earbuds",
+          "available_color": ["Black", "White"],
+          "current_color": "White",
+          "price": 249.95,
+          "long_details": "Sennheiser Momentum True Wireless 3 delivers superior sound with active noise cancellation and a long-lasting battery. These premium earbuds provide exceptional clarity and a customizable fit, making them perfect for audiophiles on the go.",
+          "category": "In-Ear Headphones",
+          "rating": 4.6,
+          "image": "https://i.pinimg.com/236x/07/1e/c1/071ec17c0b2e3d4504296ebc1a34d467.jpg"
+        },
+        {
+          "id": "14",
+          "name": "Bose QuietComfort Earbuds II",
+          "title": "Bose QuietComfort Earbuds II",
+          "available_color": ["Black", "White"],
+          "current_color": "Black",
+          "price": 299.99,
+          "long_details": "The Bose QuietComfort Earbuds II provide unmatched noise cancellation and high-quality sound. They feature a secure fit with three sizes of silicone tips, an IPX4 water resistance rating, and up to 6 hours of listening time.",
+          "category": "In-Ear Headphones",
+          "rating": 4.7,
+          "image": "https://i.pinimg.com/236x/3a/cd/b4/3acdb415ae2d5d052ed9696cb0069e02.jpg"
+        },
+        {
+          "id": "15",
+          "name": "JBL Live Pro 2",
+          "title": "JBL Live Pro 2 TWS Earbuds",
+          "available_color": ["Black", "White", "Pink", "Blue"],
+          "current_color": "Black",
+          "price": 199.95,
+          "long_details": "The JBL Live Pro 2 features JBL’s signature sound with active noise cancellation, a secure in-ear fit, and 40 hours of battery life. These earbuds are designed for immersive sound during workouts, commuting, or casual listening.",
+          "category": "In-Ear Headphones",
+          "rating": 4.5,
+          "image": "https://i.pinimg.com/236x/3a/cd/b4/3acdb415ae2d5d052ed9696cb0069e02.jpg"
+        },
+        {
+          "id": "16",
+          "name": "Samsung Galaxy Buds Pro",
+          "title": "Samsung Galaxy Buds Pro",
+          "available_color": ["Phantom Black", "Phantom Silver", "Phantom Violet"],
+          "current_color": "Phantom Black",
+          "price": 199.99,
+          "long_details": "Samsung Galaxy Buds Pro deliver premium sound with active noise cancellation and a comfortable fit. With IPX7 water resistance, ambient sound mode, and 5 hours of battery life, they are perfect for a variety of activities.",
+          "category": "In-Ear Headphones",
+          "rating": 4.6,
+          "image": "https://i.pinimg.com/236x/66/7b/84/667b8478e3b1e66fcf2a2c57d8526346.jpg"
+        },
+        {
+          "id": "17",
+          "name": "Master & Dynamic MW08",
+          "title": "Master & Dynamic MW08 Active Noise Cancelling Earbuds",
+          "available_color": ["Black", "White", "Blue"],
+          "current_color": "White",
+          "price": 299.00,
+          "long_details": "The MW08 earbuds deliver immersive sound with active noise cancellation and up to 12 hours of listening time. Crafted from ceramic and stainless steel, they provide a luxurious feel and a premium audio experience.",
+          "category": "In-Ear Headphones",
+          "rating": 4.8,
+          "image": "https://i.pinimg.com/236x/b9/9c/ad/b99cadab6551b053622f9b51744c8880.jpg"
+        }
+ ]
+
